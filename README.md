@@ -1,6 +1,6 @@
 # Salogodd
 <h1 align="center">Hi 👋, I'm Salomon Nava</h1>
-<h3 align="center">A passionate frontend developer from Mexico</h3>
+<h3 align="center">A passionate fullstack developer from Mexico</h3>
 
 Hello, my name is David Salomón Nava. I am currently a student pursuing a degree in Engineering in Computational Technologies at Tecnológico de Monterrey. My journey into programming began early, and I am passionate about software development and data science.
 
