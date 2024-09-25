@@ -13,7 +13,6 @@ If you want to connect or collaborate on projects, feel free to reach out!
 🌍 Based in Nuevo León, Mexico
 - 🌱 I’m currently learning **how to implement AI in aplications that can help us solve health problems**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
