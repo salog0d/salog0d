@@ -1,5 +1,5 @@
 # 💫 About Me:
-Full-stack developer focused on MVC architecture, building with Django and Ruby on Rails. Passionate about cybersecurity—using Python for security tools and analysis. I also sharpen my problem-solving skills with C++ and DSA. Always learning, building, and staying ahead in tech.
+Full-stack developer focused on MVC architecture, building with Django and Ruby on Rails. Passionate about cybersecurity—using Python for security tools and analysis. I also sharpen my problem-solving skills with C++ and DSA. Always learning, building, and staying ahead in tech...
 
 
 ## 🌐 Socials:
