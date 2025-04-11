@@ -3,7 +3,7 @@
  alt="Banner" width="100%"/>
 </p>
 
-<h1 align="center">Hi there, I'm Salomon 👋</h1>
+<h1 align="center">Hi there, I'm Salomon </h1>
 
 <p align="left">
   I'm a full-stack developer focused on MVC architecture, building with Django and Ruby on Rails.<br/>
