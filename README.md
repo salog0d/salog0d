@@ -9,7 +9,7 @@
   I'm a full-stack developer focused on MVC architecture, building with Django and Ruby on Rails.<br/>
   Passionate about cybersecurity — I develop tools and analysis scripts using Python.<br/>
   I sharpen my problem-solving skills with C++ and data structures.<br/>
-  Always learning, building, and staying ahead in tech 🚀<br/>si
+  Always learning, building, and staying ahead in tech <br/>si
   🎓 Currently studying Computer Science at Tecnológico de Monterrey.
 </p>
 
