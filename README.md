@@ -6,7 +6,7 @@
 <h1 align="center">Hi there, I'm Salomon </h1>
 
 <p align="left">
-  I'm a full-stack developer focused on MVC architecture, building with Django and Ruby on Rails.<br/>
+  I'm a full-stack developer focused on MVC architecture, building with Django and Ruby on Rails<br/>
   Passionate about cybersecurity — I develop tools and analysis scripts using Python.<br/>
   I sharpen my problem-solving skills with C++ and data structures.<br/>
   Always learning, building, and staying ahead in tech <br/>si
