@@ -10,7 +10,7 @@
   Passionate about cybersecurity — I develop tools and analysis scripts using Python.<br/>
   I sharpen my problem-solving skills with C++ and data structures.<br/>
   Always learning, building, and staying ahead in tech <br/>si
-  Currently studying Computer Science at Tecnológico de Monterrey.
+  Currently studying Computer Science at Tecnológico de Monterrey
 </p>
 
 ---
