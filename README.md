@@ -101,9 +101,7 @@ class SalomonDev:
 
 ---
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=salog0d&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
-</div>
+
 
 <div align="center">
   <i>✨ "Always learning, building, and staying ahead in tech" ✨</i>
