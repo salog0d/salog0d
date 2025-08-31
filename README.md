@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Salomon
+# Hello, I'm Salomon
 
 <div align="center">
   <img src="https://github.com/user-attachments/assets/0557ca6c-b3fd-4fb1-90ae-a1e21f652ce9" alt="Professional Banner" width="100%"/>
@@ -10,8 +10,6 @@ I'm a **Full-Stack Developer** and **Computer Science** student at **Tecnológic
 
 ### What I Do:
 - 🏗️ **Full-Stack Development**: Building scalable applications with Django, Ruby on Rails, and React
-- 📱 **Mobile Development**: Creating cross-platform apps with React Native and Flutter
-- 🔒 **Cybersecurity**: Developing security tools and analysis scripts using Python
 - ⚡ **Algorithm Design**: Solving complex problems with C++ and advanced data structures
 - 📚 **Continuous Learning**: Always exploring new technologies and best practices
 
@@ -87,13 +85,12 @@ class SalomonDev:
         self.name = "Salomon"
         self.role = "Full-Stack Developer"
         self.university = "Tecnológico de Monterrey"
-        self.focus = ["MVC Architecture", "React Ecosystem", "Cybersecurity", "Algorithm Design"]
+        self.focus = ["MVC Architecture", "React Ecosystem", "Algorithm Design"]
         self.current_learning = ["Advanced Django", "React Native", "Security Automation", "System Design"]
     
     def get_daily_routine(self):
         return [
-            "💻 Code quality solutions",
-            "🔒 Build security tools", 
+            "💻 Code quality solutions", 
             "📚 Learn new technologies",
             "🤝 Collaborate with teams"
         ]
