@@ -4,24 +4,25 @@
   <img src="https://github.com/user-attachments/assets/0557ca6c-b3fd-4fb1-90ae-a1e21f652ce9" alt="Professional Banner" width="100%"/>
 </div>
 
-## 🚀 About Me
+## About Me
 
 I'm a **Full-Stack Developer** and **Computer Science** student at **Tecnológico de Monterrey**, passionate about building scalable web applications and cybersecurity solutions. My expertise lies in **MVC architecture** and creating robust, secure systems that solve real-world problems.
 
 ### What I Do:
-- 🏗️ **Full-Stack Development**: Building scalable applications with Django, Ruby on Rails, and React
-- ⚡ **Algorithm Design**: Solving complex problems with C++ and advanced data structures
-- 📚 **Continuous Learning**: Always exploring new technologies and best practices
+- **Full-Stack Development**: Building scalable applications with Django, Ruby on Rails, and React  
+- **Algorithm Design**: Solving complex problems with C++ and advanced data structures  
+- **Continuous Learning**: Always exploring new technologies and best practices  
 
 ---
 
-## 🛠️ Technical Skills
+## Technical Skills
 
 ### **Backend Development**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
 ![Rails](https://img.shields.io/badge/Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 ### **Frontend Development**
@@ -32,19 +33,22 @@ I'm a **Full-Stack Developer** and **Computer Science** student at **Tecnológic
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 ### **Mobile Development**
-![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 
 ### **Database & Tools**
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-1F2937?style=for-the-badge&logo=n8n&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-00BFFF?style=for-the-badge&logo=langchain&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 ---
 
-## 📈 GitHub Analytics
+## GitHub Analytics
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=salog0d&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true"/>
@@ -57,7 +61,7 @@ I'm a **Full-Stack Developer** and **Computer Science** student at **Tecnológic
 
 ---
 
-## 🏆 Achievements
+## Achievements
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=salog0d&theme=darkhub&no-frame=true&no-bg=false&margin-w=4&row=1"/>
@@ -65,19 +69,17 @@ I'm a **Full-Stack Developer** and **Computer Science** student at **Tecnológic
 
 ---
 
-## 🌐 Connect With Me
+## Connect With Me
 
 <div align="center">
   
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/salodev/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/salomon_15_11)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/salodev/)  
 
 </div>
 
 ---
 
-## 💡 Current Focus
+## Current Focus
 
 ```python
 class SalomonDev:
@@ -86,22 +88,23 @@ class SalomonDev:
         self.role = "Full-Stack Developer"
         self.university = "Tecnológico de Monterrey"
         self.focus = ["MVC Architecture", "React Ecosystem", "Algorithm Design"]
-        self.current_learning = ["Advanced Django", "React Native", "Security Automation", "System Design"]
+        self.current_learning = [
+            "Advanced Django",
+            "Android",
+            "Security Automation",
+            "System Design",
+            "n8n",
+            "Ollama",
+            "LangChain",
+            "FastAPI",
+            "AWS"
+        ]
     
     def get_daily_routine(self):
         return [
-            "💻 Code quality solutions", 
-            "📚 Learn new technologies",
-            "🤝 Collaborate with teams"
+            "Code quality solutions", 
+            "Learn new technologies",
+            "Collaborate with teams"
         ]
-```
-
----
-
-
-
-<div align="center">
-  <i>✨ "Always learning, building, and staying ahead in tech" ✨</i>
-</div>
 
 
