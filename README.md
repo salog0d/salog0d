@@ -6,8 +6,7 @@
 
 ## About Me
 
-I'm a **Full-Stack Developer** and **Computer Science** student at **Tecnológico de Monterrey**, passionate about building scalable web applications and cybersecurity solutions. My expertise lies in **MVC architecture** and creating robust, secure systems that solve real-world problems.
-
+I’m a Full-Stack Developer and Computer Science student at Tecnológico de Monterrey, passionate about creating scalable applications, AI-powered dashboards, and cloud-based solutions. I focus on building data visualization platforms, KPI dashboards, and sports analytics systems that transform information into actionable insights.
 ### What I Do:
 - **Full-Stack Development**: Building scalable applications with Django, Ruby on Rails, and React  
 - **Algorithm Design**: Solving complex problems with C++ and advanced data structures  
