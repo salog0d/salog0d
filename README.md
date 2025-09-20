@@ -8,7 +8,7 @@
 
 I’m a Full-Stack Developer and Computer Science student at Tecnológico de Monterrey, passionate about creating scalable applications, AI-powered dashboards, and cloud-based solutions. I focus on building data visualization platforms, KPI dashboards, and sports analytics systems that transform information into actionable insights.
 ### What I Do:
-- **Full-Stack Development**: Building scalable applications with Django, Ruby on Rails, and React  
+- **Full-Stack Development**: Building scalable applications with Django, FastApi, and React  
 - **Algorithm Design**: Solving complex problems with C++ and advanced data structures  
 - **Continuous Learning**: Always exploring new technologies and best practices  
 
