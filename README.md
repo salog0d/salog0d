@@ -4,13 +4,21 @@
   <img src="https://github.com/user-attachments/assets/0557ca6c-b3fd-4fb1-90ae-a1e21f652ce9" alt="Professional Banner" width="100%"/>
 </div>
 
+
+---
+
 ## About Me
 
-I’m a Full-Stack Developer and Computer Science student at Tecnológico de Monterrey, passionate about creating scalable applications, AI-powered dashboards, and cloud-based solutions. I focus on building data visualization platforms, KPI dashboards, and sports analytics systems that transform information into actionable insights.
-### What I Do:
-- **Full-Stack Development**: Building scalable applications with Django, FastApi, and React  
-- **Algorithm Design**: Solving complex problems with C++ and advanced data structures  
-- **Continuous Learning**: Always exploring new technologies and best practices  
+I’m a Full-Stack Developer and Computer Science student at Tecnológico de Monterrey, passionate about building scalable backend systems, AI-powered dashboards, and cloud-native applications. I focus on designing efficient APIs, intelligent data pipelines, and seamless user experiences that connect data and decision-making.
+
+My current interests include **LLM orchestration**, **MCP server development**, and **LangChain-based architectures** for automating workflows and integrating AI capabilities into backend systems. I’m also deeply interested in **open-source technologies** and enjoy exploring innovative tools that enhance developer productivity.
+
+### What I Do
+
+* **Backend & API Design** — Developing reliable, high-performance systems with **FastAPI**, **PostgreSQL**, and **AWS**
+* **LLM Orchestration** — Integrating **MCP servers**, **LangChain**, and agent-based systems for intelligent automation
+* **Algorithm Design** — Applying **C++** and advanced data-structure techniques to solve complex problems
+* **Continuous Learning** — Constantly improving my skills and staying updated on emerging technologies and best practices
 
 ---
 
