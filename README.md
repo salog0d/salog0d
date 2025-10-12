@@ -125,7 +125,6 @@ class SalomonDev:
             "Build scalable systems",
             "Design intelligent APIs",
             "Experiment with LLM integrations",
-            "Collaborate and learn"
         ]
 ```
 
