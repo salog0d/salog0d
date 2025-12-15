@@ -1,6 +1,6 @@
 ---
 
-# 👋 Hello, I'm Salomon
+#  Hello, I'm Salomon
 
 <div align="center">
   <img src="https://github.com/user-attachments/assets/0557ca6c-b3fd-4fb1-90ae-a1e21f652ce9" alt="Professional Banner" width="100%"/>
@@ -8,7 +8,7 @@
 
 ---
 
-## 🧠 About Me
+##  About Me
 
 I’m a **Full-Stack Developer** and **Computer Science student at Tecnológico de Monterrey**, passionate about building scalable backend systems, AI-powered dashboards, and cloud-native applications.
 I love designing efficient APIs, intelligent data pipelines, and seamless user experiences that connect **data, automation, and decision-making**.
