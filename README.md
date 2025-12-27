@@ -111,13 +111,10 @@ class SalomonDev:
             "AI-Powered Dashboards"
         ]
         self.current_learning = [
-            "Advanced Django",
             "AWS",
             "LangChain",
-            "Ollama",
             "System Design",
             "Security Automation",
-            "n8n Workflows"
         ]
     
     def get_daily_routine(self):
