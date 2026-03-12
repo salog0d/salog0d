@@ -131,7 +131,7 @@ public class SalomonDev {
         "LLM Orchestration",
         "Cloud Architectures",
         "Cybersecurity",
-        "Low-level Programming"
+        "Low-level Programming",
     };
 
     String[] currentLearning = {
